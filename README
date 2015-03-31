@@ -1,1 +1,3 @@
 A set of custom functions that allow self-documenting multiple script parameters with FileMaker Pro.
+
+The master source for these functions is kept in my [FileMaker Custom Functions](https://github.com/chivalry/filemaker-custom-functions) repository. This is kepts so that the article that references it won't have a dead link.
